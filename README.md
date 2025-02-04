@@ -16,6 +16,8 @@ Additional features:
 🔹 Keyboard Num keys input support.
 🔹 Dark mode support.
 
-
+updates:
+reponsiveness maintained.
+icon added.
 
 website link : https://johnchristopher777.github.io/Simple_Calculator/
