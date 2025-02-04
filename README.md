@@ -1,6 +1,6 @@
 # Simple_Calculator
 
-my implementation of calculator using: 
+my implementation of a web calculator using: 
 HTML – Structure of the webpage
 CSS – Styling and layout
 JavaScript – Calculator logic and history management
