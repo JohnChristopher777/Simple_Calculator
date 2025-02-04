@@ -13,6 +13,7 @@ body {
     width: 100%;
     background: #204c83;
     padding: 10px 0;
+    padding-right: 10px;
     text-align: center;
     color: white;
     font-size: 1rem;
@@ -136,36 +137,19 @@ button.equals {
     cursor: pointer;
 }
 
-@media (max-width: 700px) {
-    .header{
-        width:50%;
-     }
-    .calculator {
-        width: 100%;  
-        height: 100vh; 
-        padding: 15px;
-        margin-top: 120px;
-    }
 
-    input {
-        width: 100%;
-        font-size: 1.2rem; 
+    @media (max-width: 400px) {
+        .calculator {
+            padding: 10px;
+        }
+    
+        button {
+            width: 50px;
+            height: 45px;
+            font-size: 0.9rem; 
+        }
+    
+        input {
+            font-size: 1rem;
+        }
     }
-
-    button {
-        width: 60px; 
-        height: 50px;
-        font-size: 1rem;
-    }
-
-    .buttons {
-        grid-template-columns: repeat(4, 1fr);  
-    }
-
-    .history {
-        font-size: 0.8rem;
-        margin-top: 15px;
-        max-height: 150px;
-        margin-bottom: 0;
-    }
-}
