@@ -15,3 +15,4 @@ Additional features:
 🔹 Support for scientific calculations(sq root, cubic root, reciprocal, pi, x^y).
 🔹 Keyboard Num keys input support.
 🔹 Dark mode support.
+
